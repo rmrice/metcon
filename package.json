@@ -1,0 +1,27 @@
+{
+  "name": "wod-generator",
+  "version": "1.0.0",
+  "description": "generate a metcon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rmrice/metcon.git"
+  },
+  "author": "Rebecca Rice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmrice/metcon/issues"
+  },
+  "homepage": "https://github.com/rmrice/metcon#readme",
+  "devDependencies": {
+    "eslint": "^4.16.0",
+    "eslint-plugin-node": "^5.2.1",
+    "tape": "^4.8.0"
+  },
+  "dependencies": {
+    "tape": "^4.8.0"
+  }
+}
